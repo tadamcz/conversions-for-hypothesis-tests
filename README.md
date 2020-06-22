@@ -1,4 +1,4 @@
-Run it in your browser here: [https://repl.it/@tmkadamcz/conversions-for-hypothesis-tests](https://repl.it/@tmkadamcz/conversions-for-hypothesis-tests)
+Run it in your browser here: [https://repl.it/@tmkadamcz/conversions-for-hypothesis-tests](https://repl.it/@tmkadamcz/conversions-for-hypothesis-tests#main.py)
 
 # Example usage
 ## Input:
