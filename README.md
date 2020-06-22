@@ -11,19 +11,15 @@ Run it in your browser here: [https://repl.it/@tmkadamcz/conversions-for-hypothe
 estimate = None
 
 # Value of estimate under null hypothesis. Typically 0.
-# Example: estimate_null_value = 42
 estimate_null_value = 0
 
 # 95% confidence interval. Two values separated by commas (a tuple).
-# Example: ci95 = 0.3,2
 ci95 = 0.13,2.3
 
 # p-value for the hypothesis that estimate=estimate_null_value
-# Example: p = 0.01
 p = None
 
 # Standard error of estimated quantity
-# Example: standard_error = 1
 standard_error = None
 
 # Set to True if your estimate is a ratio.
